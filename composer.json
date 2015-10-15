@@ -28,5 +28,10 @@
             "email": "me@7in0.me"
         }
     ],
-    "minimum-stability": "beta"
+    "minimum-stability": "beta",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.2-dev"
+        }
+    }
 }
